@@ -1,6 +1,7 @@
 # Loan Data Analysis
 ## Dataset Overview
-![Uploading image.png…]()
+![Screenshot 2024-02-25 113427](https://github.com/Royalsivm/Loan-Data-Analysis-Tableau/assets/153700930/9008b0fb-219c-4209-96d2-6e3bbdb8cf39) 
+
 
 # Important insights 💡-
 Insights I gained were truly eye-opening. By visualizing the data, I was able to identify key trends and patterns in loan approval rates, loan amounts, and repayment behaviors.
